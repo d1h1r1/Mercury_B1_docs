@@ -103,8 +103,21 @@
 </center>
 <br>
 <center>
-图 2.3.4 端部尺寸
+端部尺寸图
 </center>
+
+
+## 产品尺寸
+<center>
+<img src="../resources/2-ProductFeature/产品尺寸.jpg" width="600" height="auto" />
+<br>
+产品尺寸图</center>
+
+## 工作空间
+<center>
+<img src="../resources/2-ProductFeature/工作空间.jpg" width="600" height="auto" />
+<br>
+工作空间</center>
 
 ---
 
@@ -190,7 +203,6 @@ Figure 6 右臂末端图
 | 8      | 485B   | 预留, 未开发   | 紫                    |
 
 #### USB端子：用于连接摄像头
-
 
 
 如果您已经阅读了本章的所有内容，可以继续阅读下一章。
